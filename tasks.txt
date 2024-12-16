@@ -2,3 +2,4 @@
 - Practice branching
 - Learn pull requests
 - Learn about Git rebase
+- Learn about Git rebase
