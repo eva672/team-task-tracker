@@ -1,4 +1,11 @@
  1. Basic File Operations with Hidden Files:
 
+<<<<<<< HEAD
 - Create a directory named `project_files` in your home directory. Inside this directory, create three text files: `file1.txt`, and `.hiddenfile.txt'. Research how to list all files (including hidden ones) and use the appropriate flag to list the contents of `project_files`.
 - Hint: What flag lists hidden files?
+- Create a directory named `project_files` in your home directory. Inside this directory, create three text files: `file1.txt`, `file2.txt`, and `.hiddenfile.txt`. Research how to list all files (including hidden ones) and use the appropriate flag to list the contents of `project_files`.
+- Hint: What flag lists hidden files?
+- Research Git workflows
+- Practice branching
+- Learn pull requests
+>>>>>>> 3539e05c5ee557689cd139c45ab5950b0956b9ec
