@@ -1,4 +1,4 @@
-- Research Git workflows
+--- Research Git workflows
 - Practice branching
 - Learn pull requests
 - Learn about Git rebase
